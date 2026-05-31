@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingparse",
+        "uuid": 8348157,
+        "checksum": "8b7sd"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
